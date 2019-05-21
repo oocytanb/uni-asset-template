@@ -1,3 +1,5 @@
+.gclient text eol=lf
+DEPS text eol=lf
 LICENSE text eol=lf
 
 *.css text eol=lf
